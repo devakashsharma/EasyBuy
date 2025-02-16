@@ -1,0 +1,27 @@
+{
+  "name": "easybuy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devakashsharma/EasyBuy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/devakashsharma/EasyBuy/issues"
+  },
+  "homepage": "https://github.com/devakashsharma/EasyBuy#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1"
+  }
+}
